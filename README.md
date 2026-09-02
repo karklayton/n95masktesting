@@ -7,3 +7,12 @@ Prototype achieved accuracy +/- 2% with genuine masks. Surprisingly, most of the
 
 ### Watch the Product Demo
 [![Watch the Product Video](https://img.youtube.com/vi/l2vyhpOPkcw/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2vyhpOPkcw)
+
+### Electronic Prototype Overview
+
+![Display](./images/display.png)
+
+![Guts](./images/guts.png)
+
+![Particle Sensor](./images/particlesensor.png)
+
