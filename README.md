@@ -13,8 +13,5 @@ Some images from the electronic build.
 
 
 <img src="./images/display.png" width="300" alt="Display">
-
-![Guts](./images/guts.jpg)
-
-![Particle Sensor](./images/particlesensor.jpg)
-
+<img src="./images/guts.jpg" width="300" alt="Guts">
+<img src="./images/particlesensor.jpg" width="300" alt="Particle Sensor">
