@@ -6,7 +6,7 @@ Raspberry Pi · Python 3 · PyQt5 · Plantower PM2.5 particle sensor (UART) · 5
 
 ### Outcome
 Prototype achieved ±2% accuracy against genuine masks.
-**Most samples tested — including well-known brands — failed to meet spec.**
+**Most samples tested, including well-known brands, failed to meet the n95 spec.**
 
 ### Demo Video
 [![Watch the Product Video](https://img.youtube.com/vi/l2vyhpOPkcw/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2vyhpOPkcw)
