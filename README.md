@@ -8,11 +8,11 @@ Developed electronics and mechanical control system for a device to measure the 
 Prototype achieved ±2% accuracy against genuine masks.
 **Most samples tested — including well-known brands — failed to meet spec.**
 
-### Demo
+### Demo Video
 [![Watch the Product Video](https://img.youtube.com/vi/l2vyhpOPkcw/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2vyhpOPkcw)
 
 
-### Build
+### Build Pictures
 
 <img src="./images/build.png" width="600" alt="Cut away">
 
