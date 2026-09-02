@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding= UTF-8
+Name= PROGRAM
+Exec=/home/pi/Documents/maskgui.py
+Icon=/home/pi/Pictures/icons8-medical-64.png
+StartupNotify=false
+Terminal=false
