@@ -12,7 +12,7 @@ Prototype achieved ±2% accuracy against genuine masks.
 [![Watch the Product Video](https://img.youtube.com/vi/l2vyhpOPkcw/maxresdefault.jpg)](https://www.youtube.com/watch?v=l2vyhpOPkcw)
 
 
-### Build Pictures
+### Build Pictures 
 
 <img src="./images/build.png" width="600" alt="Cut away">
 
