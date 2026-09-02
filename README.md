@@ -11,7 +11,8 @@ Prototype achieved accuracy +/- 2% with genuine masks. Surprisingly, most of the
 ### Electronic Prototype Overview
 Some images from the electronic build.
 
-![Display](./images/display.png)
+
+<img src="./images/display.png" width="300" alt="Display">
 
 ![Guts](./images/guts.jpg)
 
