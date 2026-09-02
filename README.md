@@ -17,7 +17,11 @@ Some images from the electronic build.
 
 <img src="./images/build.png" width="600" alt="Cut away">
 
-<img src="./images/display.png" width="300" alt="Display"><img src="./images/guts.jpg" width="300" alt="Guts"><img src="./images/particlesensor.jpg" width="300" alt="Particle Sensor">
+<img src="./images/display.png" width="300" alt="Display">
+
+<img src="./images/guts.jpg" width="300" alt="Guts">
+
+<img src="./images/particlesensor.jpg" width="200" alt="Particle Sensor">
 
 
 
