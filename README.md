@@ -20,7 +20,7 @@ Prototype achieved ±2% accuracy against genuine masks.
 
 <img src="./images/guts.jpg" width="300" alt="Guts">
 
-<img src="./images/particlesensor.jpg" width="200" alt="Particle Sensor">
+<img src="./images/particlesensor.jpg" width="300" alt="Particle Sensor">
 
 
 
